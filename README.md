@@ -1,1 +1,1 @@
-# unixsphere-privacy
+# unixsphere-studio
